@@ -1,0 +1,35 @@
+.home {
+    background-color: rgb(50, 56, 56);
+    margin: 80px 50px;
+    padding: 40px;
+    color: aliceblue;
+    text-align: center;
+    font-size: larger;
+  }
+  
+  .c1 {
+    background-color: rgba(142, 176, 211, 0.849);
+    list-style-type: none;
+    padding: 30px;
+    font: larger;
+    
+  }
+  
+  .c1 li {
+    margin: 10px 0;
+    font-size: larger;
+    font-weight: ; /* Optional: to give some spacing between list items */
+  }
+  
+  .c1 a {
+    text-decoration: none;
+    color: aliceblue;
+    transition: color .8s ease-out, text-shadow .3s ease-in-out;
+  }
+  
+  .c1 a:hover {
+    color: #1153ce; /* Color change on hover */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); /* Example text shadow effect */
+  }
+  
+  
